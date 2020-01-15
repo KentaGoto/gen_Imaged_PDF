@@ -10,7 +10,7 @@
 
 ```
 Dir: D:\tool\Perl_Test\gen_Imaged_PDF\tryme
-Resolution: 300
+Resolution: 72
 
 Processing...
 Output PDF: D:\tool\Perl_Test\gen_Imaged_PDF\tryme\sample\sample.pdf
