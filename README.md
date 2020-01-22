@@ -22,5 +22,5 @@ Done!
 ## Requires
 
 - Windows
-- Perl ( 5.26 or avobe) and Modules (PDF::API2::Lite, File::Find::Rule, File::Basename)
+- Perl ( 5.26 or above) and Modules (PDF::API2::Lite, File::Find::Rule, File::Basename)
 - mutool (* Put mutool.exe in the same directory as pdf2images_parallel.exe.)
