@@ -2,10 +2,10 @@
 
 ## Usage
 
-1. **gen_Imaged_PDF.pl** をコマンドプロンプトから起動する。またはダブルクリックで起動する
-2. PDF の入ったフォルダをドラッグアンドドロップする
-3. 画像解像度を整数値で指定する
-4. 処理完了後は PDF と同じ場所に同名のフォルダができ、その中に画像化された PDF と各ページの PNG が作成される。  
+1. Start **gen_Imaged_PDF.pl** from the command prompt. Or start by double click
+2. Drag and drop the folder containing the PDF
+3. Specify the image resolution with an integer value
+4. After processing is completed, a folder with the same name is created in the same location as the PDF, and an imaged PDF and a PNG of each page are created in that folder.
    **Example:**
 
 ```
