@@ -1,5 +1,9 @@
 # gen_Imaged_PDF
 
+## Description  
+
+Convert each PDF page to PNG.  
+
 ## Usage
 
 1. Start **gen_Imaged_PDF.pl** from the command prompt. Or start by double click
