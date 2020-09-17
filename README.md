@@ -28,3 +28,6 @@ Done!
 - Windows
 - Perl5
 - mutool (* Put mutool.exe in the same directory as pdf2images_parallel.exe.)
+
+## License
+MIT
